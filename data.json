@@ -1,0 +1,55 @@
+{
+  "basics":
+  {
+  	"name"  : "roshini",
+    "email" :"roshinichekka1433@gmail.com",
+    "mobile":"8143767019"
+    },
+    "career":{
+    	"Info":"To solve problems in a creative and effective manner in a challenging position."
+    },
+    "education":[
+    	{
+    		"degree":"B.Tech(C.S.E)",
+    		"institute":"Avanthi",
+    		"data":["2015-19","70%"]
+    	},
+    	{
+    		"degree":"Intermediate(M.P.C)",
+    		"institute":"Dr hima sekhar junior college",
+    		"data":["2013-15","75%"]
+    	},
+    	{
+            "degree":"SSC",
+    		"institute":"A.M.A.L high school",
+    		"data":["2012-13","70%"]
+    	}
+    ],
+"skills":[
+{
+	"title":"Programming Language",
+	"Info":["c","c++","java","python","html"]
+},
+{
+	"title":"DataBase",
+	"Info":["hadoopeEcosystems","mysql"]
+},
+{
+
+	"title":"Web Technologies",
+	"Info":["html","CSS"]
+},
+{
+
+	"title":"librares and frameworks",
+	"Info":["hibernate","spark"]
+},
+{
+	
+
+	"title":"Operating system",
+	"Info":["Linux,Windows"]
+}
+
+    ]
+  }
